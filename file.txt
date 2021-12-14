@@ -2,4 +2,8 @@ Name : sheetal nayak
 USN : 1MS20MC050
 CLG : MSRIT
 course : MCA
+<<<<<<< HEAD
 Address: bangalore
+=======
+phone: 1122334455
+>>>>>>> dccad16449be23927cc8f2107d2040a7390fb8df
